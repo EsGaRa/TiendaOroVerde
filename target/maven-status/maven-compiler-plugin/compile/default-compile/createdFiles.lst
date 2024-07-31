@@ -1,0 +1,8 @@
+com\mycompany\tiendaoroverde\resources\JakartaEE8Resource.class
+Controlador\SvIngreso.class
+Controlador\SvRegistro.class
+logica\Usuario.class
+com\mycompany\tiendaoroverde\JakartaRestConfiguration.class
+logica\Cliente.class
+logica\Persona.class
+logica\Administrador.class
